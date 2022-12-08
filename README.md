@@ -4,19 +4,19 @@ I am a penultimate year Computer Science student at Nanyang Technological Univer
 
 My hobbies are digital art and learning languages. I’m interested in applying my art skills to game development in aspects such as character design, and using my eye for colour in UI / UX design. I currently speak 6 languages: English, Hindi, Urdu, Tamil, Spanish, Malay.
 
-# Programming Languages:
+## Programming Languages:
   Python, Java, C/C++
 
-# Web Development:
+## Web Development:
   HTML, CSS, Javascript, Boostrap, ReactJS</p>
 
-# Mobile Development:
+## Mobile Development:
   Flutter
 
-# Machine Learning, Deep Learning and Data Science:
+## Machine Learning, Deep Learning and Data Science:
   Pandas, Scikit-learn, MatPlotLib, NumPy
 
-# Certifications:
+## Certifications:
   Game Design: Art and Concepts Specialisation by CalArts on Coursera
 
 <!--
