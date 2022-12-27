@@ -2,7 +2,7 @@
 
 I am a penultimate year Computer Science student at Nanyang Technological University with a minor in Modern Languages &#40;Spanish&#41;. I grew up playing video games which sparked an interest in game development and later in software development. My areas of interest are front end development, UI / UX design and game development.
 
-My hobbies are digital art and learning languages. I’m interested in applying my art skills to game development in aspects such as character design, and using my eye for colour in UI / UX design. I currently speak 6 languages: English, Hindi, Urdu, Tamil, Spanish, Malay.
+My hobbies are digital art and learning languages. I’m interested in applying my art skills to game development in aspects such as character design, and using my eye for colour in UI / UX design. I currently speak 5 languages: English, Hindi, Urdu, Tamil, Spanish.
 
 ### Programming Languages:
   Python, Java, C/C++
